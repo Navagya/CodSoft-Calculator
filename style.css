@@ -1,0 +1,23 @@
+html,body{
+    height:50%;
+    width:100%;
+}
+
+button{
+    background-color: rgb(36, 32, 32);
+    color:white;
+}
+
+input{
+    background-color: grey;
+    color:aliceblue;
+}
+
+h1{
+   
+    background-color:pink;
+    width:270px;
+    border-radius: 10px;
+    margin:auto;
+    
+}
