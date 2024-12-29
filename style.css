@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
     body {
         display: flex;
@@ -9,12 +9,12 @@
       }
       
 
-=======
+
 html,body{
     height:50%;
     width:100%;
 }
->>>>>>> 51f727530cbe7aad90b7644707779309ee7e6f9e
+
 
 button{
     background-color: rgb(36, 32, 32);
@@ -25,8 +25,7 @@ input{
     background-color: grey;
     color:aliceblue;
 }
-<<<<<<< HEAD
-=======
+
 
 h1{
    
@@ -36,4 +35,4 @@ h1{
     margin:auto;
     
 }
->>>>>>> 51f727530cbe7aad90b7644707779309ee7e6f9e
+
