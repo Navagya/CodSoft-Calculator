@@ -5,6 +5,12 @@
     border-radius: 10px;
 }
 
+<<<<<<< HEAD
+=======
+.text-center{
+    text-align:center;
+}
+>>>>>>> 51f727530cbe7aad90b7644707779309ee7e6f9e
 .bg-red{
     background-color: red;
 }
