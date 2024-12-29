@@ -1,0 +1,20 @@
+
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh; /* Ensure the body takes the full height of the viewport */
+        margin: 0;
+      }
+      
+
+
+button{
+    background-color: rgb(36, 32, 32);
+    color:white;
+}
+
+input{
+    background-color: grey;
+    color:aliceblue;
+}
